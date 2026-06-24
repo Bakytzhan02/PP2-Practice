@@ -1,0 +1,12 @@
+MAGNUM
+
+24.06.2026
+14:35
+
+Milk 450
+Bread 220
+Chocolate 780
+
+TOTAL 1450
+
+Payment: CARD
